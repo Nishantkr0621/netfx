@@ -1,0 +1,391 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.net{
+    height: 200px;
+    width: 200px;
+    margin-top: -50px;
+    margin-left: 40px;
+    margin-right: 100px;
+}
+select{
+    width: 75px;
+    height: 35px;
+    margin: 10px;
+
+}
+.lang{
+    background-color: black;
+    color:white;
+}
+
+button{
+    width: 75px;
+    height: 35px;
+    margin-left: 20px; 
+}
+.butone{
+   background-color: red;
+   color: whitesmoke;
+   font-size: 17px;
+}
+.bucket{
+    padding-top:0px;
+    margin-top: -135px;
+    margin-left: 1300px;
+}
+.cup{
+    text-align: center;
+    padding-top: 160px;
+}
+.head1,.head11{
+    font-size: 70px;
+    color: white;
+}
+.head2{
+    font-size: 30px;
+    padding-top: 20px;
+    color: white;
+}
+.head3{
+    font-size: 22px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    color: white;
+}
+.mail{
+
+   width: 550px;
+   height: 60px;
+
+}
+.but_two{
+
+   width: 240px;
+   height: 65px;
+   margin-left: -1px;
+   padding-bottom: 8px;
+   font-size: 25px;
+   background-color: red;
+   color: white;
+}
+.header1{
+    background-image: url(Background.jpeg);
+    padding-bottom: 170px;
+}
+.head5{
+    font-size: 55px;
+    margin-left: 150px;
+    margin-top: 160px;
+    color: white;
+    
+}
+.head6{
+    font-size: 30px;
+    margin-left: 150px;
+    color: white;
+}
+
+.box{
+    margin-left: 800px;
+    width: 500px;
+    height: 350px;
+    margin-top: -300px 
+
+}
+
+
+.video-1{
+    margin-left: 864px;
+    margin-top: -450px;
+    margin-bottom: 87px;
+    width: 365px;
+    height: 220px; 
+
+}
+
+.section1{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 8px;
+    border-top: 8px;
+    border-style: solid;
+    border-color: gray;
+    
+}
+.mobile{
+    width: 470px;
+    height: 370px;
+    margin-left: 40px;
+    position: relative;
+}
+.book{
+    width: 65px;
+    height: 90px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.download{
+    width: 45px;
+    height: 45px;
+    float: right;
+    margin-top: 35px;
+    margin-right: 7px;
+}
+.st_thing{
+    color: white;
+    margin-left: 120px;
+    margin-top:-75px;
+    
+}
+.downl{
+  color: blue;
+  margin-left: 120px;
+
+}
+.box2{
+position: absolute;
+bottom: -950px;
+background-color: black;
+width: 350px;
+height: 110px;
+border: solid 3px gray;
+border-radius: 10px;
+margin-left: 94px;
+margin-bottom: 40px;
+
+
+
+}
+.section3{
+    background-color: black;
+  /*  margin-bottom: 140px; */
+    padding-top: 40px;
+    height: 430px;
+    border-bottom: 8px;
+    border-style: solid;
+    border-color: gray;
+}
+.note1{
+    color: white;
+    margin-left: 670px;
+    margin-top: -270px;
+    font-size: 55px;
+}
+.note2{
+    color: white;
+    margin-left: 670px;
+    font-size: 28px;
+}
+.video-2{
+
+    width: 370px;
+/*  width: auto;
+    height: 342px; */
+    margin-left: 920px;
+    margin-top: -165px;
+}
+.monitor{
+    width: 570px;
+ /*  width: auto;
+    height: 470px;*/
+    margin-left: 822px;
+    margin-top: -250px;
+    
+}
+.data9{
+    margin-top: -2px;
+    margin-left: -24px;
+ 
+
+}
+.moddata8{
+    font-size: 50px;
+    color: white;
+}
+.moddata9{
+    font-size: 28px;
+    color: white;
+}
+.data8{
+    margin-left: 150px;
+    margin-top: 80px;
+   
+}
+.section4{
+    background-color: black;
+   /* margin-bottom: 140px;*/
+    padding-top: 40px;
+    height: 430px;
+    border-bottom: 8px;
+    border-style: solid;
+    border-color: gray;
+  
+}
+.moddata10{
+    font-size: 50px;
+    color: white;
+}
+.moddata11{
+   font-size: 30px;
+   color: white;
+}
+.data10{
+    margin-left: 756px;
+    padding-top: 150px;
+}
+.children{
+   width: 515px;
+   height: 402px;
+  margin-top: -290px;
+  margin-left: 80px;
+}
+.section5{
+  background-color: black;
+  padding-top: 40px;
+  height: 500px;
+  border-bottom: 8px;
+  border-style: solid;
+  border-color: gray;
+}
+.dom1{
+    background-color: rgb(48,48,48);
+    border-style: solid;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    margin-right: 356px;
+    margin-left: 355px;
+
+}
+.dom2{
+    background-color: rgb(48,48,48);;
+    border-style: solid;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    margin-right: 356px;
+    margin-left: 355px; 
+}
+.dom3{
+    background-color: rgb(48,48,48);;
+    border-style: solid;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    margin-right: 356px;
+    margin-left: 355px;
+}
+.dom4{
+    background-color: rgb(48,48,48);;
+    border-style: solid;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    margin-right: 356px;
+    margin-left: 355px;
+}
+.dom5{
+    background-color:rgb(48,48,48);;
+    border-style: solid;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    margin-right: 356px;
+    margin-left: 355px;
+}
+.dom6{
+    background-color: rgb(48,48,48);;
+    border-style: solid;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    margin-right: 356px;
+    margin-left: 355px;
+}
+.moddata12{
+    text-align: center;
+    font-size: 55px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color: white;
+}
+.domm1{
+    color: white;
+}
+.domm2{
+    color: white;
+}
+.domm3{
+    color: white;
+}
+.domm4{
+    color: white;
+}
+.domm5{
+    color: white;
+}
+.domm6{
+    color: white;
+}
+.moddata13{
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.dom7{
+    margin-right: 356px;
+    margin-left: 355px;
+}
+.section6{
+    background-color: black;
+    padding-bottom: 70px;
+    border-bottom: 8px;
+    border-style: solid;
+    border-color: gray;
+}
+.space{
+    margin: 7px;
+    color: white;
+}
+.para{
+    padding-top: 90px;
+    padding-left: 350px; 
+    color: white;
+}
+.table1{
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+}
+.foot1{
+    padding-top: 20px;
+    padding-left: 350px;
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
+.bang{
+    background-color: black;
+    color:white;
+    margin-left: 350px;
+    width: 85px;
+    height: 45px;
+}
+.para1{
+    padding-top: 18px;
+    padding-left: 350px;
+    color: wheat;
+}
+.foot{
+    background-color: black;
+    padding-bottom: 70px;
+    border-bottom: 8px;
+    border-style: solid;
+    border-color: gray;
+}
+
